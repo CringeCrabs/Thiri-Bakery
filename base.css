@@ -91,6 +91,7 @@ footer {
   font-size: clamp(2rem, 5vw, 3rem);
   margin: 0;
   line-height: normal;
+  margin-left: 200px;
 }
 
 /* SUBTITLE */
