@@ -101,7 +101,7 @@ header p {
 }
 
 /* Scale header for smaller screens */
-@media (max-width: 600px) {
+@media (max-width: 360px) {
   .logo-row {
     transform: scale(0.8);
     transform-origin: left center;
